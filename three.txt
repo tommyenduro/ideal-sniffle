@@ -1,3 +1,4 @@
 sam
 bob
 sally - commit 2 branch xyz
+tom - commit 3 branch xyz
